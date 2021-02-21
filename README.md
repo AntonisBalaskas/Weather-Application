@@ -2,7 +2,7 @@
 # OpenWeatherMap Application #
 
 **Overview:**\
-This web application was created for the postgraduate Java lesson. It pulls data from the **OpenWeatherMap API** and you can be informed about the weather conditions from any city you choose. 
+This web application was created for the postgraduate Java lesson. It pulls data from the **OpenWeatherMap API** and you can be informed with real time weather conditions from any city you choose. 
 
 
 **Tools used**:
