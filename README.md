@@ -1,8 +1,8 @@
 # Weather-Application
-OpenWeatherMap Application 
+**OpenWeatherMap Application**
 
-Tools used:
-Spring Boot
-Vaadin
-OpenWeatherMap API
-
+**Tools used**
+1.Spring Boot 
+2.Vaadin 
+3.OpenWeatherMap API
+4.Eclipse IDE
