@@ -1,5 +1,5 @@
 # Weather-Application
-**OpenWeatherMap Application**
+# OpenWeatherMap Application #
 
 **Tools used**
 
