@@ -24,3 +24,6 @@ This web application was created for the postgraduate Java lesson. It pulls data
 **Running The Project:**\
 Import the project as a Maven project to your IDE and run it as a Spring Boot App.\
 Then type to your browser **localhost:8080** and you can use the Application.
+
+**Collaborator:**\
+VassilikiL
