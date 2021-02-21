@@ -8,7 +8,7 @@
 3. OpenWeatherMap API
 4. Eclipse IDE
 
-# Unit Options:
+**Unit Options**:
 1. Units.METRIC (Celsius)
 
 2. Units.IMPERIAL (Fahrenheit)
