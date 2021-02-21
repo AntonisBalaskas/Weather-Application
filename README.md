@@ -1,7 +1,7 @@
 # Weather-Application
 # OpenWeatherMap Application #
 
-**Overview:**
+**Overview:**\
 This web application was created for the postgraduate Java lesson. It pulls data from the **OpenWeatherMap API** and you can be informed about the weather conditions from any city you choose. 
 
 
@@ -22,3 +22,4 @@ This web application was created for the postgraduate Java lesson. It pulls data
 1. Units.METRIC (Celsius)
 2. Units.IMPERIAL (Fahrenheit)
 
+ 
