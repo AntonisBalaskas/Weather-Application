@@ -1,7 +1,7 @@
 # Weather-Application
 # OpenWeatherMap Application #
 
-**Tools used**
+**Tools used**:
 
 1. Spring Boot 
 2. Vaadin 
