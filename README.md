@@ -12,7 +12,7 @@ This web application was created for the postgraduate Java lesson. It pulls data
 4. Eclipse IDE
 
 **Features:**\
-User can type a cityname or countryname in the textfield that is shown below. Then he can press the search button in order to appear current weather conditions, pressure, humidity,wind and feels like. Also, after pressing the search button he can check about min temperature, max temperature and clear weather description for the city or country that he has already typed from the keyboard. Last but not least, user has the oportunity to convert temperature units from Fahrenheit to Celsius and vice versa by pressing the button with the arrow to the left of the image and selecting the unit of measurement that he wants.
+You can type a city name or a country name in the textfield that is shown below. Then you can press the search button in order to view the current weather conditions: pressure, humidity,wind-degree and feels like. Also, you can check about min temperature,max temperature and the weather description for the city or country you choosed.You also have the oportunity to convert temperature units from Fahrenheit to Celsius and vice versa by pressing the button with the arrow to the left of the image and selecting the unit of measurement that you want.
 ![1](https://user-images.githubusercontent.com/75641530/108637138-f423d100-7491-11eb-8a7a-0508a80216d1.jpg)
 ![2](https://user-images.githubusercontent.com/75641530/108637141-f71ec180-7491-11eb-9ceb-1882b3c15664.jpg)
 
