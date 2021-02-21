@@ -14,7 +14,6 @@ This web application was created for the postgraduate Java lesson. It pulls data
 
 **Unit Options**:
 1. Units.METRIC (Celsius)
-
 2. Units.IMPERIAL (Fahrenheit)
 
 ![1](https://user-images.githubusercontent.com/75641530/108637138-f423d100-7491-11eb-8a7a-0508a80216d1.jpg)
